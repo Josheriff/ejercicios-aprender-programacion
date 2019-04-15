@@ -35,6 +35,20 @@ mi_funcion("Hola", texto)
 Dará como resultado 3
 ```
 
+# Elimina una palabra del texto
+
+```
+Program una función que dada una palabra y un texto, elimine esa palabra del texto y lo devuelva.
+
+Ejemplo:
+
+texto = "Es mejor ser explícito que hacerse entender de otras formas"
+
+mi_funcion("hacerse", texto)
+
+Dará como resultado "Es mejor ser explícito que entender de otras formas"
+```
+
 # NUMEROS
 
 ## Cambio de base decimal a binaria
