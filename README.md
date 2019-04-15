@@ -34,3 +34,21 @@ mi_funcion("Hola", texto)
 
 Dará como resultado 3
 ```
+
+# NUMEROS
+
+## Cambio de base decimal a binaria
+```
+Programa una función a la cual se le pasa un numero decimal (en base 10) y te devuelva su representación binaria
+
+mi_funcion(5) = 101
+mi_funcion(7) = 111
+```
+
+## Cambio de base binaria a decimal
+```
+Programa una función a la cual se le pasa un número en binario (base 2) y devuelva su representación decimal
+mi_funcion(100) = 4
+mi_funcion(110) = 6
+``` 
+
