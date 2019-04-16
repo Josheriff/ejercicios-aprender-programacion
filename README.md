@@ -49,6 +49,41 @@ mi_funcion("hacerse", texto)
 Dará como resultado "Es mejor ser explícito que entender de otras formas"
 ```
 
+## Contabiliza el número de caracteres en un string
+
+```
+Programa una función la cual te brinde el número de caracteres en un string:
+
+Ejemplo
+
+mi_funcion('hola que tal')
+
+Dará como resultado 12
+```
+## Obten cierto número de caracteres de un texto
+
+```
+Programa una función la cual te devuelva el texto recortado según el número de caracteres definidos:
+
+Ejemplo
+
+mi_funcion('hola que tal', 10)
+
+Dará como resultado 'hola que t'
+```
+## Crea un arreglo derivado de un separador
+
+```
+Programa una función la cual te devuelva un arreglo de texto separados por cierto caracter:
+
+Ejemplo
+
+mi_funcion('hola que tal', ' ')
+
+Dará como resultado ['hola','que','tal']
+```
+
+
 # NUMEROS
 
 ## Cambio de base decimal a binaria
