@@ -35,7 +35,7 @@ mi_funcion("Hola", texto)
 Dará como resultado 3
 ```
 
-# Elimina una palabra del texto
+## Elimina una palabra del texto
 
 ```
 Program una función que dada una palabra y un texto, elimine esa palabra del texto y lo devuelva.
@@ -83,6 +83,22 @@ mi_funcion('hola que tal', ' ')
 Dará como resultado ['hola','que','tal']
 ```
 
+## Repetir un texto X veces
+
+```
+Programa una función que reciba dos parámetros, un texto y un número, y que pinte en consola (o similar) dicho texto, la cantidad de veces que indique el número:
+
+Ejemplo
+
+mi_funcion('Hell Yeah', 3)
+
+Dará como resultado
+
+Hell Yeah
+Hell Yeah
+Hell Yeah
+
+```
 
 # NUMEROS
 
