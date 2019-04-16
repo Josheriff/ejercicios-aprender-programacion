@@ -71,7 +71,7 @@ mi_funcion('hola que tal', 10)
 
 Dará como resultado 'hola que t'
 ```
-## Crea un arreglo derivado de un separador
+## Crea un arreglo derivado de un separador (arreglo == array en español)
 
 ```
 Programa una función la cual te devuelva un arreglo de texto separados por cierto caracter:
@@ -85,6 +85,30 @@ Dará como resultado ['hola','que','tal']
 
 
 # NUMEROS
+
+## Suma dos números
+
+```
+Programa una funcin que reciba dos parametros (2 números) y devuelva la suma.
+
+Ejemplo
+
+mi_funcion(1,2)
+
+Dará como resultado 3
+```
+
+## Número al cuadrado
+
+```
+Programa una funcin que reciba un número y retorne ese mismo número elevado al cuadrado:
+
+Ejemplo
+
+mi_funcion(3)
+
+Dará como resultado 9
+```
 
 ## Cambio de base decimal a binaria
 ```
