@@ -20,7 +20,7 @@ mi_funcion('hola que tal')
 Dará como resultado 'lat euq aloh'
 ```
 
-## Cuenta el número de veces que se reptire una palabra en un texto largo
+## Cuenta el número de veces que se repite una palabra en un texto largo
 
 ```
 Programa una función a la cual se le pasen dos paremetros, que serán un texto largo y una palabra a comprobar
@@ -89,7 +89,7 @@ Dará como resultado ['hola','que','tal']
 ## Suma dos números
 
 ```
-Programa una funcin que reciba dos parametros (2 números) y devuelva la suma.
+Programa una función que reciba dos parametros (2 números) y devuelva la suma.
 
 Ejemplo
 
@@ -101,7 +101,7 @@ Dará como resultado 3
 ## Número al cuadrado
 
 ```
-Programa una funcin que reciba un número y retorne ese mismo número elevado al cuadrado:
+Programa una función que reciba un número y retorne ese mismo número elevado al cuadrado:
 
 Ejemplo
 
@@ -125,3 +125,12 @@ mi_funcion(100) = 4
 mi_funcion(110) = 6
 ``` 
 
+## Aplicar el descuento a un número
+```
+Programa una función la cual te genere el monto final aplicandole un descuento (regla de tres), donde le pases el primer parámetro que sería el descuento o porcentaje a aplicar y el segundo parámetro es la cantidad a la cual le quieres aplicar el descuento
+mi_funcion(20, 1000) 
+
+El resultado debe ser 800
+
+ejemplo: https://jsfiddle.net/Alan_van_Buuren/mL0dnj83/3/
+``` 
