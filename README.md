@@ -71,10 +71,10 @@ mi_funcion('hola que tal', 10)
 
 Dará como resultado 'hola que t'
 ```
-## Crea un arreglo derivado de un separador (arreglo == array en español)
+## Crea un array derivado de un separador
 
 ```
-Programa una función la cual te devuelva un arreglo de texto separados por cierto caracter:
+Programa una función la cual te devuelva un array de texto separados por cierto caracter:
 
 Ejemplo
 
@@ -150,3 +150,17 @@ El resultado debe ser 800
 
 ejemplo: https://jsfiddle.net/Alan_van_Buuren/mL0dnj83/3/
 ``` 
+
+## Imprime uno a uno los elementos de un array dado
+```
+Programa una función que reciba como parametro un array, y que imprima por consola uno a uno sus elementos, diciendo su indice:
+
+mi_funcion(['hola', 1, True])
+
+El resultado deber ser:
+
+-  hola ocupa el indice 0 en el array
+-  1 ocupa el indice 1 en el array
+- True ocupa el indice 2 en el array
+```
+
