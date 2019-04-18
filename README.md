@@ -146,7 +146,7 @@ Dará como resultado 9
 
 ```
 Programa una función que reciba un número y devuelva si es primo (TRUE) o no (FALSE).
-**Número primo**: es aquel que sólo es divisible por uno y por si mismo.
+**Primo**: es aquel número que sólo es divisible por uno y por si mismo.
 
 Ejemplo:
 
