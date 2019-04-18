@@ -151,6 +151,8 @@ El resultado debe ser 800
 ejemplo: https://jsfiddle.net/Alan_van_Buuren/mL0dnj83/3/
 ``` 
 
+# Arrays
+
 ## Imprime uno a uno los elementos de un array dado
 ```
 Programa una función que reciba como parametro un array, y que imprima por consola uno a uno sus elementos, diciendo su indice:
@@ -162,5 +164,12 @@ El resultado deber ser:
 -  hola ocupa el indice 0 en el array
 -  1 ocupa el indice 1 en el array
 - True ocupa el indice 2 en el array
+```
+
+## Dado un array numérico devuelve otro array con los numéros elevados al cuadrado
+```
+mi_funcion([1,4,5])
+
+El resultado debe ser [1, 16, 25]
 ```
 
