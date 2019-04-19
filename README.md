@@ -1,10 +1,10 @@
-# Ejercicios programación
+### Ejercicios programación
 
 Estos ejercicios sirven principalmente para cuando estás comenzando a aprender a programar.
 
 Ya has aprendido los tipos de datos básicos, ya sabes lo que es una lista o array, un variable, un texto, un booleano...
 
-Estos ejercicios te ayudarán a coger solutra a la hora de tratar con ellos.
+Estos ejercicios te ayudarán a coger soltura a la hora de tratar con ellos.
 
 
 
@@ -13,7 +13,7 @@ Estos ejercicios te ayudarán a coger solutra a la hora de tratar con ellos.
 ## Imprime uno a uno los elementos de un array dado
 
 ```
-Programa una función que reciba como parametro un array, y que imprima por consola uno a uno sus elementos, diciendo su indice:
+Programa una función que reciba como parámetro un array, y que imprima por consola uno a uno sus elementos, diciendo su indice:
 
 mi_funcion(['hola', 1, True])
 
@@ -24,7 +24,7 @@ El resultado deber ser:
 - True ocupa el indice 2 en el array
 ```
 
-## Dado un array numérico devuelve otro array con los numéros elevados al cuadrado
+## Dado un array numérico devuelve otro array con los números elevados al cuadrado
 
 ```
 mi_funcion([1,4,5])
