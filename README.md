@@ -8,5 +8,7 @@ Estos ejercicios te ayudarán a coger soltura a la hora de tratar con ellos.
 
 
 [Strings](./strings.md)
+
 [numeros](./numeros.md)
+
 [array](./array.md)
