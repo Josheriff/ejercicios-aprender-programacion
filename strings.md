@@ -44,7 +44,7 @@ Dará como resultado 3
 ## Elimina una palabra del texto
 
 ```
-Program una función que dada una palabra y un texto, elimine esa palabra del texto y lo devuelva.
+Programa una función que dada una palabra y un texto, elimine esa palabra del texto y lo devuelva.
 
 Ejemplo:
 
