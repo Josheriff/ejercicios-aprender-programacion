@@ -4,7 +4,7 @@
 
 ```
 Programa una función que reciba como parámetro un array.
-Que imprima por consola uno a uno sus elementos,diciendo su indice:
+Que imprima por consola uno a uno sus elementos, diciendo su indice:
 
 mi_funcion(['hola', 1, True])
 
@@ -23,7 +23,7 @@ mi_funcion([1,4,5])
 El resultado debe ser [1, 16, 25]
 ```
 
-## dado un array devuelve el número mas alto y el más bajo de dicho array
+## Dado un array devuelve el número mas alto y el más bajo de dicho array
 
 ```
 mi_funcion([1,4,5,99,-60])

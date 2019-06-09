@@ -67,7 +67,7 @@ mi_funcion('hola que tal')
 Dará como resultado 12
 ```
 
-## Obten cierto número de caracteres de un texto
+## Obtén cierto número de caracteres de un texto
 
 ```
 Programa una función la cual te devuelva el texto recortado según el número de caracteres definidos:
