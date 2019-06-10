@@ -1,5 +1,5 @@
 
-# NUMEROS
+# NÚMEROS
 
 ## Suma dos números
 
@@ -90,7 +90,7 @@ mi_funcion(20) = 16
 ## Aplicar el descuento a un número
 
 ```
-Programa una función la cual te genere el monto final aplicandole un descuento (regla de tres), donde le pases el primer parámetro que sería el descuento o porcentaje a aplicar y el segundo parámetro es la cantidad a la cual le quieres aplicar el descuento
+Programa una función la cual te genere el monto final aplicándole un descuento (regla de tres), donde le pases el primer parámetro que sería el descuento o porcentaje a aplicar y el segundo parámetro es la cantidad a la cual le quieres aplicar el descuento
 mi_funcion(20, 1000)
 
 El resultado debe ser 800
